@@ -20,9 +20,7 @@ python simulate_logins.py --failures 8 --delay 1 --ip 192.168.56.10
 ## 🖥️ Demo
 
 ### Attack Simulation vs Detection
-
- (<img width="1920" height="1080" alt="Screenshot 2026-04-03 224945" src="https://github.com/user-attachments/assets/cacfc55f-9015-426d-b633-954d600a39fe" />
-)
+ <img width="1920" height="1080" alt="Screenshot 2026-04-03 224945" src="https://github.com/user-attachments/assets/cacfc55f-9015-426d-b633-954d600a39fe" />
 
 ## Purpose
 Educational cybersecurity project to understand attack detection.
